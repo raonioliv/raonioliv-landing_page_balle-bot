@@ -1,0 +1,27 @@
+*, body{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body{ 
+    background: linear-gradient(68.15deg, #2f2325 16.62%, #8e5d52 85.61%);
+    /* height: 100vh; */
+    /* background-repeat: no-repeat; */
+}
+
+ol, ul, li { 
+    list-style: none;
+    font-size: 3rem;
+}
+
+a{ 
+    text-decoration: none;
+    color: white;
+}
+
+
+header, nav, div, ul, li, a, main, aside, footer{ 
+    background: none;
+}

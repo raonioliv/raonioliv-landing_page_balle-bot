@@ -1,0 +1,91 @@
+
+
+/* HEADER STYLESHEET */
+.header-container{ 
+    display: flex;
+    margin: 0 20%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+.nav-ul{ 
+    display: flex;
+    gap: 30px;
+}
+.logo-box{ 
+    padding-top: 6px;
+}
+
+header{ 
+    border-bottom: 0.2em solid white;
+}
+
+/* HEADER STYLESHEET */
+
+
+
+
+/* MAIN STYLESHEET */
+main{ 
+    margin: 0 20%;
+}
+
+.main-container{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.balle-inv{ 
+    color: white;
+    font-size: 3.2rem;
+}
+.balle-inv .title{ 
+    font-size: 6.5rem;
+}
+
+.balle-inv button{ 
+    font-size: 2.4rem;
+    border-radius: 12px;
+    padding: 16px;
+    margin-top: 10px;
+    background-color: #c9ab9f;
+}
+.balle-inv button:hover{ 
+    cursor: pointer;
+}
+
+.title-div{ 
+    width: fit-content;
+    display: inline-block;
+    font-size: 6.8rem;
+    border-top: 0.3px solid white;
+    padding-top: 40px;
+    margin-top: 120px;
+}
+
+.main-nrow{ 
+    color: white;
+    font-size: 3.2rem;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+
+/* MAIN STYLESHEET */
+
+
+/* FOOTER STYLESHEET */
+footer{ 
+    border-top: 1px solid white;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/* FOOTER STYLESHEET */
